@@ -4,7 +4,7 @@
 
 **Key Features**
 
-**Educational Games on Loan Approval:**
+**1)Educational Games on Loan Approval:**
 
   Step-by-step simulations of loan approval processes.
   Breakdown of essential concepts like credit scores, documentation, interest rates, and approval criteria.
@@ -14,21 +14,21 @@
   Engaging activities that explain modern technologies like Artificial Intelligence, Blockchain, Cloud Computing, and IoT.
   Mini-games and quizzes illustrating the impact of these technologies on various industries, especially finance.
   
-**User-Friendly Interface:**
+**2)User-Friendly Interface:**
 
   Easy-to-navigate design catering to Millennials and Gen Z.
   A vibrant and interactive UI/UX to enhance user engagement.
   
-**Progress Tracking:**
+**3)Progress Tracking:**
 
   Features to monitor learning progress.
   Rewards system including badges and achievements to incentivize users.
   
-**Cross-Platform Compatibility:**
+**4)Cross-Platform Compatibility:**
 
   Seamlessly functional on desktops, tablets, and mobile devices.
   
-**Future Enhancements**
+  **Future Enhancements**
 
   Expansion with more games and advanced levels.
   Integration with social media for sharing progress.
