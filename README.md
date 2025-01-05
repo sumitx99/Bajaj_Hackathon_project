@@ -2,9 +2,9 @@
 
 **Overview** An interactive and user-friendly platform tailored for Millennials and Gen Z, this website simplifies the complexities of loan approval processes and modern technologies. By incorporating gamification, it makes learning enjoyable and intuitive, ensuring users grasp key concepts effortlessly.
 
-**Key Features**
+****Key Features****
 
-**1)Educational Games on Loan Approval:**
+****1)Educational Games on Loan Approval:****
 
   Step-by-step simulations of loan approval processes.
   
@@ -18,23 +18,23 @@
   
  ii) Mini-games and quizzes illustrating the impact of these technologies on various industries, especially finance.
   
-**2)User-Friendly Interface:**
+****2)User-Friendly Interface:****
 
   Easy-to-navigate design catering to Millennials and Gen Z.
   
   A vibrant and interactive UI/UX to enhance user engagement.
   
-**3)Progress Tracking:**
+****3)Progress Tracking:****
 
   Features to monitor learning progress.
   
   Rewards system including badges and achievements to incentivize users.
   
-**4)Cross-Platform Compatibility:**
+****4)Cross-Platform Compatibility:****
 
   Seamlessly functional on desktops, tablets, and mobile devices.
   
-  **Future Enhancements**
+****Future Enhancements****
 
   Expansion with more games and advanced levels.
   
