@@ -1,6 +1,6 @@
 # Bajaj_Hackathon_project
 
-**Overview ** An interactive and user-friendly platform tailored for Millennials and Gen Z, this website simplifies the complexities of loan approval processes and modern technologies. By incorporating gamification, it makes learning enjoyable and intuitive, ensuring users grasp key concepts effortlessly.
+**Overview** An interactive and user-friendly platform tailored for Millennials and Gen Z, this website simplifies the complexities of loan approval processes and modern technologies. By incorporating gamification, it makes learning enjoyable and intuitive, ensuring users grasp key concepts effortlessly.
 
 **Key Features**
 
@@ -13,17 +13,21 @@
 
   Engaging activities that explain modern technologies like Artificial Intelligence, Blockchain, Cloud Computing, and IoT.
   Mini-games and quizzes illustrating the impact of these technologies on various industries, especially finance.
+  
 **User-Friendly Interface:**
 
   Easy-to-navigate design catering to Millennials and Gen Z.
   A vibrant and interactive UI/UX to enhance user engagement.
+  
 **Progress Tracking:**
 
   Features to monitor learning progress.
   Rewards system including badges and achievements to incentivize users.
+  
 **Cross-Platform Compatibility:**
 
   Seamlessly functional on desktops, tablets, and mobile devices.
+  
 **Future Enhancements**
 
   Expansion with more games and advanced levels.
